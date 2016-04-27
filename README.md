@@ -2,7 +2,9 @@
 Pawn Syntax for nano
 
 Basically a ripoff of _c.nanorc_ with some keywords added/removed.
+
 I use nano for fast prototyping on Debian.
+
 Copy this to
 > /usr/share/nano
 
